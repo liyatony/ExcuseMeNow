@@ -36,14 +36,12 @@ For Hardware:
 ### Implementation
 For Software:
 # Installation
-
-     ```bash
-
+    
       git clone https://github.com/yourusername/excusemenow.git
       cd excusemenow
       npm install
 # Run
-  ```bash
+     
         npm start
  
 
@@ -92,9 +90,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Abin Varghese: [Specific contributions]
+- Liya Tony: [Specific contributions]
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
