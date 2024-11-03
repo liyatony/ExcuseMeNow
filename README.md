@@ -52,8 +52,10 @@ For Software:ExcuseMeNow is a web-based tool designed to generate creative excus
 <img src="assets/home.png" alt="Workflow" width="600"/>
 *Home Page*
 
+
 <img src="assets/gen2.png" alt="Workflow" width="600"/>
 *Generating Random Excuse*
+
 
 <img src="assets/gen.png" alt="Workflow" width="600"/>
 *Generating Random Excuse*
