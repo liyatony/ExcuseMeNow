@@ -46,7 +46,7 @@ For Software:
  
 
 ### Project Documentation
-For Software:
+For Software:ExcuseMeNow is a web-based tool designed to generate creative excuses for a variety of everyday situations. It leverages AI to deliver unique and often humorous responses, giving users a fun way to navigate social and professional scenarios. This document outlines the project's key components, installation steps, usage instructions, and future enhancements.
 
 # Screenshots 
 <img src="assets/home.png" alt="Workflow" width="600"/>
