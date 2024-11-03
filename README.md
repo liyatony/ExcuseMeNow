@@ -49,14 +49,14 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot1](<img src="assets/workflow.png" alt="Workflow" width="600"/>)
+*Home Page*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2](<img src="assets/workflow.png" alt="Workflow" width="600"/>)
+*Generating Random Excuse*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot3](<img src="assets/workflow.png" alt="Workflow" width="600"/>)
+*Generating Random Excuse*
 
 
 # Diagrams
