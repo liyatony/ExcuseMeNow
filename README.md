@@ -61,7 +61,7 @@ For Software:
 # Diagrams
 # Diagrams
 # Diagrams
-<img src="assets/image.png" alt="Workflow" width="600"/>
+<img src="assets/workflow.png" alt="Workflow" width="600"/>
 *Workflow showing the process from selecting a situation to displaying the generated excuse, with options for generating a new excuse if not satisfied*
 
 
