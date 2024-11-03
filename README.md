@@ -59,8 +59,10 @@ For Software:
 *Add caption explaining what this shows*
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+# Diagrams
+![Workflow](assets/image.png)
+*Workflow showing the process from selecting a situation to displaying the generated excuse, with options for generating a new excuse if not satisfied*
+
 
 For Hardware:
 
@@ -75,9 +77,8 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- Abin Varghese: [Specific contributions]
-- Liya Tony: [Specific contributions]
-
+- Abin Varghese: Frontend
+- Liya Tony: Backend
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
