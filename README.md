@@ -49,13 +49,16 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](<img src="assets/workflow.png" alt="Workflow" width="600"/>)
+![Screenshot1]
+<img src="assets/home.png" alt="Workflow" width="600"/>
 *Home Page*
 
-![Screenshot2](<img src="assets/workflow.png" alt="Workflow" width="600"/>)
+![Screenshot2]
+<img src="assets/gen2.png" alt="Workflow" width="600"/>
 *Generating Random Excuse*
 
-![Screenshot3](<img src="assets/workflow.png" alt="Workflow" width="600"/>)
+![Screenshot3]
+<img src="assets/gen.png" alt="Workflow" width="600"/>
 *Generating Random Excuse*
 
 
