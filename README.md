@@ -25,10 +25,10 @@ Using randomness and a healthy dose of humor, ExcuseMeNow! delivers excuses that
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Html,CSS
+- Firebase
+- Gemini API
+- VS Code
 
 For Hardware:
 - Not Applicable for this project
@@ -64,22 +64,7 @@ For Software:
 
 For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
+- Not Applicable for this project
 
 ### Project Demo
 # Video
