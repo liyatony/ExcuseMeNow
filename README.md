@@ -58,11 +58,11 @@ For Software:
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
 
-# Diagrams
-# Diagrams
+
 # Diagrams
 <img src="assets/workflow.png" alt="Workflow" width="600"/>
-*Workflow showing the process from selecting a situation to displaying the generated excuse, with options for generating a new excuse if not satisfied*
+Workflow showing the process from selecting a situation to displaying the generated excuse, with options for generating a new excuse if not satisfied
+
 
 
 For Hardware:
