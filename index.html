@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Ultimate Excuse Factory</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Firebase SDK -->
+    <script src="https://www.gstatic.com/firebasejs/9.6.0/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.6.0/firebase-firestore-compat.js"></script>
+    <!-- Gemini AI SDK -->
+    <script src="https://cdn.jsdelivr.net/npm/@google/generative-ai@0.1.3"></script>
+    <!-- Add these before your script.js -->
+
+</head>
+<body>
+    <div class="main-container">
+        <div class="container">
+            <div class="header">
+                <h1>🎭 ExcuseMeNow!! 🎭</h1>
+                <small>Where excuses become art!</small>
+            </div>
+
+            <div class="style-selector">
+                <button class="style-option" data-style="professional">
+                    📊 Professional
+                </button>
+                <button class="style-option active" data-style="creative">
+                    🎨 Creative
+                </button>
+                <button class="style-option" data-style="casual">
+                    😎 Casual
+                </button>
+            </div>
+
+            <div class="input-group">
+                <label for="recipient">Who's the lucky recipient? 🎯</label>
+                <input type="text" id="recipient" placeholder="e.g., The Boss, Professor Snape, My Dog">
+            </div>
+
+            <div class="input-group">
+                <label for="situation">What's the oopsie? 🤔</label>
+                <input type="text" id="situation" placeholder="e.g., meeting, deadline, existence">
+            </div>
+
+            <div class="slider-container">
+                <label for="professionalism">Fancy-Pants Level 🎩</label>
+                <input type="range" min="1" max="100" value="75" class="slider" id="professionalism">
+            </div>
+
+            <button type="button" class="button" id="generateButton">
+                <span id="button-text">🎪 Generate Masterpiece 🎪</span>
+            </button>
+        </div>
+    </div>
+
+    <div class="modal" id="excuseModal">
+        <div class="modal-content">
+            <span class="close-modal" id="closeModal">&times;</span>
+            <div id="excuse-result"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
