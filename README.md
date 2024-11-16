@@ -72,9 +72,7 @@ For Hardware:
 - Not Applicable for this project
 
 ### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://liyatony.github.io/ExcuseMeNow/
 
 # Additional Demos
 [Add any extra demo materials/links]
